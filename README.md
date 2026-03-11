@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4f0274b8-37ee-4fee-a226-4e297c6da4fa" /><h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
+<h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP(Constraint Satisfaction Problem) using Python</h1> 
 <h3>Name:  G RAMANUJAM             </h3>
 <h3>Register Number: 212224240129      </h3>
 <H3>Aim:</H3>
